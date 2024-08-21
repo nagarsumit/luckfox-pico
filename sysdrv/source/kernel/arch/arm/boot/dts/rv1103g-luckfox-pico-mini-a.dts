@@ -30,7 +30,7 @@
 
 /**********ETH**********/
 &gmac {
-	status = "disabled";
+	status = "okay";
 };
 
 /**********USB**********/
